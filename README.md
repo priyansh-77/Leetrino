@@ -19,7 +19,7 @@
 ## 🧩 Folder & File Structure
 
 <pre>
-leetrino/
+leetrino
 ├── manifest.json          ← Extension setup file
 ├── background.js          ← Handles Gemini API requests
 ├── content_script.js      ← Injects UI into LeetCode & manages interaction
