@@ -18,7 +18,7 @@
 
 ## 🧩 Folder & File Structure
 
-```
+<pre>
 leetrino/
 ├── manifest.json          ← Extension setup file
 ├── background.js          ← Handles Gemini API requests
@@ -28,7 +28,7 @@ leetrino/
 ├── panel.html             ← AI Panel HTML injected into LeetCode
 ├── styles.css             ← Custom CSS styles for panel
 └── icons/                 ← Icons for Chrome extension
-```
+</pre>
 
 
 
