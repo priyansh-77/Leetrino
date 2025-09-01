@@ -18,16 +18,16 @@
 
 ## 🧩 Folder & File Structure
 
-leetrino
-
-├── manifest.json ← Extension setup file
-├── background.js ← Handles Gemini API requests
-├── content_script.js ← Injects UI into LeetCode & manages interaction
-├── popup.html ← Extension settings window
-├── popup.js ← Logic for saving/loading API key
-├── panel.html ← AI Panel HTML injected into LeetCode
-├── styles.css ← Custom CSS styles for panel
-└── icons/ ← Icons for Chrome extension
+leetrino/
+│
+├── manifest.json            ← Extension setup file
+├── background.js            ← Handles Gemini API requests
+├── content_script.js        ← Injects UI into LeetCode & manages interaction
+├── popup.html               ← Extension settings window
+├── popup.js                 ← Logic for saving/loading API key
+├── panel.html               ← AI Panel HTML injected into LeetCode
+├── styles.css               ← Custom CSS styles for panel
+└── icons/                   ← Icons for Chrome extension
 
 
 ---
